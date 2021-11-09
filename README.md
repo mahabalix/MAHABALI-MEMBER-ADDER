@@ -20,7 +20,7 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/TeleGram-Scraper-Adder`
+`$ git clone https://github.com/mahabalix/MAHABALI-MEMBER-ADDER`
 
 `$ cd Telegram-Scraper-Adder`
 
