@@ -22,7 +22,7 @@
 
 `$ git clone https://github.com/mahabalix/MAHABALI-MEMBER-ADDER`
 
-`$ cd Telegram-Scraper-Adder`
+`$ cd MAHABALI-MEMBER-ADDER`
 
 * Install requierments & Setup Configuration File. ( api ID, api Hash )
 
